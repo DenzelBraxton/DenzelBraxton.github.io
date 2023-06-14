@@ -1,29 +1,43 @@
-# The Maze
+# Personal CV Website
 
-The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world!
+Welcome to my personal CV website project! This website serves as a modern and interactive platform to showcase my skills, experience, and portfolio. 
 
-The Maze was written was written in C ussing SDL2 library. Deveploment was performed using Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
+To view the live website, visit DenzelBraxton.github.io
 
-### About SDL2 
+For a comprehensive overview of the project, including its purpose, features, and technical implementation, please read the accompanying blog article here https://medium.com/@denzelbraxton2477/crafting-a-modern-personal-cv-website-showcasing-my-skills-161445c5a786.
 
-Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.
+## Author
 
-## Instalation 
-```sh
-$ git clone https://github.com/danielaloperahernandez/The-Maze.git
-```
-## Usage 
-* Execute ./maze or type make run 
-* Use up and down arrow keys to move forward and backward (keys w and s serve the same function)
-* Use right and left arrow keys to turn the camera arround (keys d and a serve the same function)
+This personal CV website was designed and developed by Braxton Otieno. Feel free to connect with me on LinkedIn:
 
-## Compilation
-```sh
-$ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
-```
+- Braxton Otieno: www.linkedin.com/in/braxton-otieno
 
-## Flowchart
-![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
+## Installation
 
-## Demo
-[![The Maze Demo](https://i.imgur.com/5Ss7s1S.png)](https://www.youtube.com/embed/6T2N8gNUTQ8)
+To run this personal CV website locally on your machine, follow the installation steps below:
+
+1. Clone the repository: `git clone https://github.com/your-repo.git`
+2. Navigate to the project directory: `cd project-directory`
+3. Open the `index.html` file in your preferred web browser.
+
+## Usage
+
+Here's how you can utilize this personal CV website:
+
+1. Visit the live website by following the deployed site link mentioned above.
+2. Explore the different sections of the website, such as the resume, services, portfolio, testimonials, and more.
+3. Get to know me better by reading through the information provided in each section.
+4. View my portfolio projects and click on them to see more details.
+5. Contact me using the provided contact form or any other contact information mentioned on the website.
+
+## Contributing
+
+Contributions to this personal CV website project are not currently being accepted as it is a personal showcase. However, feel free to fork the repository and use it as a starting point for your own personal CV website.
+
+## Licensing
+
+This personal CV website project is licensed under the i-portfolio. Feel free to use the codebase as a reference or modify it to create your own personal CV website.
+
+---
+
+
